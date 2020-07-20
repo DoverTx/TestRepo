@@ -1,0 +1,9 @@
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+user.name=Michael Coughran
+user.email=mec4710@gmail.com
+gui.recentrepo=C:/Users/mcoug/Dropbox/BootCamp-GrandCircusFolder/DeliverableOne
+core.editor=notepad++ --wait
+core.pager=cat
